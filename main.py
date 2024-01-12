@@ -1,5 +1,5 @@
 """
-Este programa executa o arquivo analysis.py para encontrar as figuras
+Este programa executa o arquivo analysis.py para encontrar as figuras necessárias.
 Autor: Luis Villon
 """
 
